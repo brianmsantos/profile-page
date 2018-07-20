@@ -6,6 +6,15 @@
 
 body {
   padding-top: 54px;
+  background-image: url("/images/marble.jpg");
+}
+
+.about{
+  color: teal;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  text-align: center;
+  
 }
 
 @media (min-width: 992px) {
