@@ -9,6 +9,9 @@ body {
   background-image: url("/images/marble.jpg");
 }
 
+.navbar-brand{
+  color: teal !important;
+}
 .about{
   color: teal;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
